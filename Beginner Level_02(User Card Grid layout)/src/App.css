@@ -1,0 +1,78 @@
+#heading {
+  font-size: 86px;
+  text-decoration: underline;
+  padding: 4px;
+}
+
+#getusers {
+  height: 100%;
+  float: right;
+  width: max-content;
+}
+
+button {
+  color: white;
+  font-weight: 900;
+  font-size: 24px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(229 63 36);
+  padding: 10px;
+  margin-top: -60px;
+  width: max-content;
+}
+
+.box {
+  background-color: black !important;
+  color: yellowgreen;
+}
+
+.column1 {
+  height: 100%;
+  float: center;
+  width: 100%;
+  font-size: 36px;
+}
+
+footer {
+  font-size: 22px;
+  background-color: whitesmoke;
+  color: black;
+  text-align: center;
+  margin: 6px;
+
+  padding: 18px;
+}
+
+.column2 {
+  float: left !important;
+  width: 33% !important;
+  margin: 2px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#main {
+  text-align: center;
+  margin-top: 20%;
+  background-color: black;
+  color: lightseagreen;
+  font-size: 28px;
+  width: 100%;
+}
+
+.profile {
+  text-align: center;
+  margin-top: 30%;
+  background-color: black;
+  color: lime;
+  font-size: 28px;
+  width: 100%;
+  border-block: 4px double black;
+}
+
+p {
+  color: lightgreen;
+}
